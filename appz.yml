@@ -29,4 +29,4 @@ properties:
       vault: SLACK_API_URL
     SLACK_CHANNEL: appz-delivery
     CLUSTER_NAME: Macom
-    revision : 02
+    revision : 03
